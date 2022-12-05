@@ -1,0 +1,94 @@
+body {
+
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-variant: unset;
+}
+html {
+        background-image: url(167495-legkovyye_avtomobili-sportkar-fara-avtomobili_mashiny_mechty-avtomobil_srednego_razmera-1920x1080.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      
+}
+p {
+    text-shadow: 10px 10px 15px;
+    font-size: 16px;
+    color: rgba(248, 246, 246, 0.88);
+
+}
+h1 {
+    text-shadow: 10px 10px 15px;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.88);
+
+}
+ input {
+    /* background-color: rgb(49, 215, 215); */
+
+}
+textarea {
+    /* background-color: rgb(49, 215, 215); */
+
+
+}
+
+.border-1 {
+    /* background:rgb(105, 232, 133); */
+    padding-left: 10px;
+    color:aliceblue;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    /* border-style: solid; */
+    margin-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 130px;
+
+
+}
+.border-2 {
+    /* background:rgb(223, 238, 115); */
+    padding-left: 10px;
+    color: aliceblue;
+    border-radius: 15px;
+    /* border-style: dashed; */
+    padding-bottom: 15px;
+    padding-left: 90px;
+
+
+}
+.border-5 {
+    padding-left: 90px;
+    textext-shadow: 6px 1px 2px rgb(244, 240, 240), 0 0 1em red; /* Параметры тени */ color: rgb(251, 248, 248); /* Белый цвет текста */ font-size: 16px; /* Размер надписи */
+
+
+}
+.xx {
+    padding-left: 45px;
+    textext-shadow: 9px 1px 9px rgb(3, 0, 0), 0 0 2em rgb(0, 0, 0); /* Параметры тени */ color: rgb(102, 165, 90); /* Белый цвет текста */ font-size: 2.5em; /* Размер надписи */
+
+
+}
+.xx1 {
+    
+}
+.xx2 {
+    color: aliceblue;
+    padding-left: 45px;
+
+
+}
+
+.padding-left {
+    padding-left: 75px;
+}
+
+
+
+
